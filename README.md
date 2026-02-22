@@ -16,8 +16,7 @@
 
 Neuro AI is a deep learning-based multi-class cancer detector for brain MRI images.  
 It can classify images into **Glioma, Meningioma, Pituitary Tumor, or No Tumor** categories.  
-The project is deployed with **Gradio** for easy interaction and demonstration.
-
+The project is deployed on Hugging Face, tested on Google Colab, and used Gradio for an interactive user interface.
 ---
 
 ## Problem Statement
@@ -74,4 +73,5 @@ git clone https://github.com/Saharejazkhan/neuro-ai-cancer-detector.git
 cd neuro-ai-cancer-detector
 
 pip install -r requirements.txt
+
 
