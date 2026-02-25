@@ -58,10 +58,9 @@ This tool provides an AI-powered solution to assist medical professionals and st
   - Pituitary Tumor  
   - No Tumor
   - 
-**Model Link:** https://huggingface.co/spaces/narmeenbilal/Neuro-AI-Detector
+**Model Link:** (https://huggingface.co/spaces/Saharejaz/Neuro-AI-Cancer-Detector)
 
-
-**Model File:** [Download best_multi_class_model.h5](https://huggingface.co/spaces/narmeenbilal/Neuro-AI-Detector/tree/main)
+**Model File:** [Download best_multi_class_model.h5](https://huggingface.co/spaces/Saharejaz/Neuro-AI-Cancer-Detector/tree/main))
 > 
 
 ---
@@ -73,5 +72,6 @@ git clone https://github.com/Saharejazkhan/neuro-ai-cancer-detector.git
 cd neuro-ai-cancer-detector
 
 pip install -r requirements.txt
+
 
 
